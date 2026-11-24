@@ -50,4 +50,4 @@ Portafolio-Modernizado/
 ## Versiones
 
 - **Versión con Bulma (principal):** https://github.com/JulianHenao-Web/Portafolio-Servicios
-- **Versión original (HTML y CSS):** https://github.com/JulianHenao-Web/Portafolio-Servicios/Portafolio-Servicios-(Original)
+- **Versión original (HTML y CSS):** https://github.com/JulianHenao-Web/Portafolio-Servicios/tree/main/Portafolio%20Servicios%20(Original)
