@@ -3,7 +3,7 @@
 Portafolio web de **Magic Moon**, un emprendimiento de figuras hechas a mano en porcelana fría (porcelanicrón). Las piezas miden entre 6 y 15 cm y se elaboran por encargo.
 
 
-**Ver el sitio en vivo:** https://github.com/JulianHenao-Web/Portafolio-Servicios
+**Ver el sitio en vivo:** https://julianhenao-web.github.io/Portafolio-Servicios/
 
 ## Servicios que presenta
 
