@@ -28,16 +28,16 @@ Portafolio web de **Magic Moon**, un emprendimiento de figuras hechas a mano en 
 ## Estructura del proyecto
 
 ```
-Portafolio-Modernizado/
-├── index.html           ← versión con Bulma
+Portafolio-Servicios/
+├── index.html           ← versión con Bulma (principal)
 ├── styles.css
 ├── bulma.min.css
 ├── imagenes/
 ├── README.md
-└── Portafolio-Servicios-(Original)/    ← versión original
+└── version-original/    ← versión original en HTML y CSS
     ├── index.html
     ├── styles.css
-    └── images/
+    └── imagenes/
 ```
 
 ## Cómo verlo en tu computador
@@ -49,5 +49,5 @@ Portafolio-Modernizado/
 
 ## Versiones
 
-- **Versión con Bulma (principal):** https://github.com/JulianHenao-Web/Portafolio-Servicios
-- **Versión original (HTML y CSS):** https://github.com/JulianHenao-Web/Portafolio-Servicios/tree/main/Portafolio%20Servicios%20(Original)
+- **Versión con Bulma (principal):** https://julianhenao-web.github.io/Portafolio-Servicios/
+- **Versión original (HTML y CSS):** https://julianhenao-web.github.io/Portafolio-Servicios/version-original/
